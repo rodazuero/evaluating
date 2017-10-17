@@ -1,0 +1,1 @@
+Replication files for the paper "Evaluating Early Childhood Interventions: An Estimable Model of Family Child Investments"
