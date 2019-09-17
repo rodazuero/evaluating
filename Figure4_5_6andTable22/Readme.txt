@@ -15,4 +15,4 @@ Figure 6b: Fwages2010.png
 Table 22: Modelfitchildcare.tex
 
 
-Comments: razuero@iadb.org
+Comments: razuero@emory.edu
